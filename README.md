@@ -9,3 +9,5 @@
 - Testes com Babel: [https://babeljs.io/repl](https://babeljs.io/repl)
 
 - Node JS: [https://nodejs.org/pt-br](https://nodejs.org/pt-br)
+
+- Funções anônimas: [https://ricardo-reis.medium.com/fun%C3%A7%C3%B5es-an%C3%B4nimas-javascript-92361075fd89](https://ricardo-reis.medium.com/fun%C3%A7%C3%B5es-an%C3%B4nimas-javascript-92361075fd89)
