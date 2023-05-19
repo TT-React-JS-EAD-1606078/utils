@@ -15,3 +15,7 @@
 - Doc Axios: [https://axios-http.com/ptbr/](https://axios-http.com/ptbr/)
 
 - Doc React Router: [https://reactrouter.com/en/main](https://reactrouter.com/en/main)
+
+- Tagged templates: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#tagged_templates](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#tagged_templates)
+
+- date-fns: [https://date-fns.org/](https://date-fns.org/)
